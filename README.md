@@ -1,2 +1,3 @@
 # Simple-jquery-tab
-You can create simple jquery tabs
+simple jquery tabs
+<a href="https://callatrakesh.github.io/simple-jquery-tab/">https://callatrakesh.github.io/simple-jquery-tab/</a>
